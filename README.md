@@ -1,1 +1,2 @@
-# web_using_JS
+# JavaScript를 사용하여 웹페이지를 만들어봅니다.
+(개인 공부)
